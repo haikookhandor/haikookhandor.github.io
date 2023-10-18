@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Course Title",
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
     "section": "",
-    "text": "Course info & details here"
+    "text": "May 2023: Secured a 2 month internship with the world’s fourth largest bank, HDFC Bank!\nOctober 2022: Awarded Research Intern with TCS Research for 6 months!\nSept 2022: Our buildsys22 paper on Quantifying Uncertainty in NN for Non-Intrusive Load Monitoring gets accepted to Buildsys 2022\nMay 2022: Started Research Intern with Prof. Nipun Batra in Sustainibility Lab, IIT Gandhinagar.\nMay 2022: Awarded Deep Learning intern with Mastek for 2 months!\nJanuary 2022: Selected as a part of 6 month app development intern for Pravaig Dynamics!"
+  },
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Course Materials",
+    "section": "",
+    "text": "Datasets\nSlides"
   },
   {
     "objectID": "schedule.html",
@@ -14,10 +21,24 @@
     "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
   },
   {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Course Materials",
+    "objectID": "papers/index.html",
+    "href": "papers/index.html",
+    "title": "Publications",
     "section": "",
-    "text": "Datasets\nSlides"
+    "text": "Vibhuti Bansal, Rohit Khoiwal, Hetvi Shastri, Haikoo Khandor, Nipun Batra. In ACM Buildsys 2022 [PDF][Github]"
+  },
+  {
+    "objectID": "papers/index.html#section",
+    "href": "papers/index.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Vibhuti Bansal, Rohit Khoiwal, Hetvi Shastri, Haikoo Khandor, Nipun Batra. In ACM Buildsys 2022 [PDF][Github]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Haikoo Khandor",
+    "section": "",
+    "text": "Haikoo Khandor is a fourth year undergrad in Computer Science at IIT Gandhinagar. His active research interests include Bayesian Machine Learning and Deep Learning. He has internship experiences in various companies like HDFC Bank, TCS Research, Mastek and Pravaig Dynamics."
   }
 ]
