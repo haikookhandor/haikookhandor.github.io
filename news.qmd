@@ -1,0 +1,10 @@
+---
+title: News
+---
+
+* May 2023: Secured a 2 month internship with the world's fourth largest bank, HDFC Bank!
+* October 2022: Awarded Research Intern with TCS Research for 6 months!
+* Sept 2022: Our buildsys22 paper on Quantifying Uncertainty in NN for Non-Intrusive Load Monitoring gets accepted to Buildsys 2022 
+* May 2022: Started Research Intern with Prof. Nipun Batra in Sustainibility Lab, IIT Gandhinagar.
+* May 2022: Awarded Deep Learning intern with Mastek for 2 months!
+* January 2022: Selected as a part of 6 month app development intern for Pravaig Dynamics!
