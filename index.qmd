@@ -21,6 +21,7 @@ about:
     - icon: book
       text: Google Scholar
       href: https://scholar.google.com/citations?user=MjCaikMAAAAJ&hl=en
-      
+---
+
 Haikoo Khandor is a fourth year undergrad in Computer Science at IIT Gandhinagar. His active research interests include Bayesian Machine Learning and
 Deep Learning. He has internship experiences in various companies like HDFC Bank, TCS Research, Mastek and Pravaig Dynamics.
