@@ -1,0 +1,21 @@
+---
+Teaching Experience
+---
+
+1. Probabilistic Machine Learning (ES661), IIT Gandhinagar, Fall 2023
+
+    Teaching Assistant
+
+    * Prepared presentations and interactive notebooks to facilitate a comprehensive comprehension of probabilistic machine learning principles.    
+    * Drafted rigorous assignments and provided project mentorship to students pursuing a project on Active Learning and basic principles.
+
+2. Probability, Statistics, and Data Visualization (ES114), IIT Gandhinagar, Spring 2023
+
+    Teaching Assistant
+
+    * Composed assignments related to basics of probability and library usage like Numpy, Scipy, Matplotlib.
+    * Assisted and motivated first-year students by addressing doubts related to probability and statistics.
+
+3. Teaching Certification Course
+    * Undertook a course aimed at improving the teaching skills of undergraduate students.
+    * Learnt various insights from different faculties on how to teach, present, motivate and ensure everyone's interest in teaching.
