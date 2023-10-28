@@ -1,5 +1,5 @@
 ---
-Teaching Experience
+title: Teaching Experience
 ---
 
 1. Probabilistic Machine Learning (ES661), IIT Gandhinagar, Fall 2023
