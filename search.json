@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "May 2023: Secured a 2 month internship with the world’s fourth largest bank, HDFC Bank!\nOctober 2022: Awarded Research Intern with TCS Research for 6 months!\nSept 2022: Our buildsys22 paper on Quantifying Uncertainty in NN for Non-Intrusive Load Monitoring gets accepted to Buildsys 2022\nMay 2022: Started Research Intern with Prof. Nipun Batra in Sustainibility Lab, IIT Gandhinagar.\nMay 2022: Awarded Deep Learning intern with Mastek for 2 months!\nJanuary 2022: Selected as a part of 6 month app development intern for Pravaig Dynamics!"
-  },
-  {
     "objectID": "materials.html",
     "href": "materials.html",
     "title": "Course Materials",
     "section": "",
     "text": "Datasets\nSlides"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Haikoo Khandor",
+    "section": "",
+    "text": "Haikoo Khandor is a fourth year undergrad in Computer Science at IIT Gandhinagar. His active research interests include Bayesian Machine Learning and Deep Learning. He has internship experiences in various companies like HDFC Bank, TCS Research, Mastek and Pravaig Dynamics."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Probabilistic Machine Learning (ES661), IIT Gandhinagar, Fall 2023\nTeaching Assistant\n\nPrepared presentations and interactive notebooks to facilitate a comprehensive comprehension of probabilistic machine learning principles.\n\nDrafted rigorous assignments and provided project mentorship to students pursuing a project on Active Learning and basic principles.\n\nProbability, Statistics, and Data Visualization (ES114), IIT Gandhinagar, Spring 2023\nTeaching Assistant\n\nComposed assignments related to basics of probability and library usage like Numpy, Scipy, Matplotlib.\nAssisted and motivated first-year students by addressing doubts related to probability and statistics.\n\nTeaching Certification Course\n\nUndertook a course aimed at improving the teaching skills of undergraduate students.\nLearnt various insights from different faculties on how to teach, present, motivate and ensure everyone’s interest in teaching."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "May 2023: Secured a 2 month internship with the world’s fourth largest bank, HDFC Bank!\nOctober 2022: Awarded Research Intern with TCS Research for 6 months!\nSept 2022: Our buildsys22 paper on Quantifying Uncertainty in NN for Non-Intrusive Load Monitoring gets accepted to Buildsys 2022\nMay 2022: Started Research Intern with Prof. Nipun Batra in Sustainibility Lab, IIT Gandhinagar.\nMay 2022: Awarded Deep Learning intern with Mastek for 2 months!\nJanuary 2022: Selected as a part of 6 month app development intern for Pravaig Dynamics!"
   },
   {
     "objectID": "schedule.html",
@@ -33,12 +47,5 @@
     "title": "Publications",
     "section": "",
     "text": "Vibhuti Bansal, Rohit Khoiwal, Hetvi Shastri, Haikoo Khandor, Nipun Batra. In ACM Buildsys 2022 [PDF][Github]"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Haikoo Khandor",
-    "section": "",
-    "text": "Haikoo Khandor is a fourth year undergrad in Computer Science at IIT Gandhinagar. His active research interests include Bayesian Machine Learning and Deep Learning. He has internship experiences in various companies like HDFC Bank, TCS Research, Mastek and Pravaig Dynamics."
   }
 ]
