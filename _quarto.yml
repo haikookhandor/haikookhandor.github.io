@@ -14,10 +14,11 @@ website:
         text: News
       - href: teaching.qmd
         text: Teaching Experience
-  
+      - href: work.qmd
+        text: Reserch and Work Experience
+      - href: projects.qmd
+        text: Projects
     
-    
-
 format:
   html:
     theme:

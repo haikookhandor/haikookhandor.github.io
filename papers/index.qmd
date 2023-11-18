@@ -6,4 +6,4 @@ title: Publications
 
 #### "I do not know": Quantifying Uncertainty in Neural Network Based Approaches for Non-Intrusive Load Monitoring
 
-Vibhuti Bansal, Rohit Khoiwal, Hetvi Shastri, Haikoo Khandor, Nipun Batra. In ACM Buildsys 2022 [[PDF](../papers/2022/buildsys22-nilm.pdf)][[Github](https://github.com/VibhutiBansal-11/NILM_Uncertainty)]
+Vibhuti Bansal, Rohit Khoiwal, Hetvi Shastri, Haikoo Khandor, Nipun Batra. In ACM Buildsys 2022 [[PDF](../papers/2022/buildsys22-nilm.pdf)][[Github](https://github.com/haikookhandor/NILM_Uncertainty)]
