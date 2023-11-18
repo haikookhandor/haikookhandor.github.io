@@ -13,9 +13,9 @@ website:
       - href: news.qmd
         text: News
       - href: teaching.qmd
-        text: Teaching Experience
+        text: Teaching
       - href: work.qmd
-        text: Reserch and Work Experience
+        text: Reserch & Work Experience
       - href: projects.qmd
         text: Projects
     
