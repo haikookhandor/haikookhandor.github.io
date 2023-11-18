@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Haikoo Khandor - News</title>
+<title>Haikoo Khandor - Selected Projects</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -91,7 +91,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./news.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./news.html" rel="" target="">
  <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
@@ -103,7 +103,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Reserch and Work Experience</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html" rel="" target="">
+    <a class="nav-link active" href="./projects.html" rel="" target="" aria-current="page">
  <span class="menu-text">Projects</span></a>
   </li>  
 </ul>
@@ -124,7 +124,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">News</h1>
+<h1 class="title">Selected Projects</h1>
 </div>
 
 
@@ -139,14 +139,14 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<ul>
-<li>May 2023: Secured a 2 month internship with the world’s fourth largest bank, HDFC Bank!</li>
-<li>October 2022: Awarded Research Intern with TCS Research for 6 months!</li>
-<li>Sept 2022: Our buildsys22 paper on Quantifying Uncertainty in NN for Non-Intrusive Load Monitoring gets accepted to Buildsys 2022</li>
-<li>May 2022: Started Research Intern with Prof.&nbsp;Nipun Batra in Sustainibility Lab, IIT Gandhinagar.</li>
-<li>May 2022: Awarded Deep Learning intern with Mastek for 2 months!</li>
-<li>January 2022: Selected as a part of 6 month app development intern for Pravaig Dynamics!</li>
-</ul>
+<ol type="1">
+<li><p>[<a href="https://github.com/anon23sub/anon">Conformal NILM</a>] Building upon the previously accepted [<a href="../papers/2022/buildsys22-nilm.pdf">paper</a>] at Buildsys22, we have used distribution-free likelihood by using Conformal Prediction. Calibration methods like Isotonic regression and Conformal prediction are used on top of SOTA S2P Homoscedastic/Heteroscedastic models and Quantile S2P model. Applied smoothing to mitigate same score function outputs in case of sparsely used appliances. Submitted in Special Track on Web4Good of The Web Conference 2024. (Previosly known as WWW Conference)</p></li>
+<li><p>[<a href="https://github.com/anonn23/anon">Active NILM</a>] There is a lack of labeled data especially in the energy domain since collecting them require appliance specific sensors to be installed increasing costs and privacy issues. We used active learning on Pecan Street Dataport dataset, 25 houses in Austin, Texas. Comparable, if not better performance was achieved using only 65% of data. Different acquisition functions like entropy, mutual information, rank based sampling and round robin was used to help in uncertainty quantification.</p></li>
+<li><p>[<a href="https://github.com/haikookhandor/NILM_Uncertainty">Uncertain NILM</a>] Neural network models traditionally give a point prediction which gives no useful information. Rather if a certain range of interval is provided, it helps the user make informed decisions. In the energy domain, such information can help reduce energy consumption upto 15%. We were the first one to quantify uncertainty in energy disaggregation. Approximate Bayesian methods like MC Dropout, Deep Ensemble and Bootstrap were used. Moreover, Isotonic regression helped recalibrate the uncertainties. This work is published in ACM Buildsys’2022, a CORE A ranked CS Conference.</p></li>
+<li><p>[<a href="https://github.com/haikookhandor/SnyGenAI">Learning from Synthetic Data</a>] Image datasets like CIFAR-10, Imagenet-100 have been manually annotated leading to labeling errors and privacy issues. Obtaining these are often difficult and expensive. We use Generative Adversial Networks (GANs) on top of self-supervised learning techniques for synthetic data generation. By combining them with real images, we train networks for downstream classification tasks achieving a better accuracy. Thereafter, we used Stable diffusion with prompt engineering of domains to get even further realistic images and maintaining a fine tradeoff between fidelity and diversity.</p></li>
+<li><p>[<a href="https://github.com/haikookhandor/TCS_Research">Developing test generation techniques from decision trees learnt for insurance migration systems to reduce training data</a>] Insurance systems make new schemes which are either applicable or not applicable to individuals. There are a number of variables which are present in this scheme determining eligibility. Among these variables there exist constraints which are non-intuitive many times. A decision tree is learnt and finetuned repeatedly by adding testcases generated by parsing the tree. The testcases are generated keeping in mind the constraints a variable might have with other. This resulted in a 7% jump in accuracy in software testing systems.</p></li>
+<li><p>[<a href="https://github.com/haikookhandor/Compiler-Project">Compilers</a>] A Compiler built from scratch with Python. It involves the following stages for compiling namely, lexical analysis, parsing, semantic analysis, optimization, and a user-friendly interface. There are advanced features like error handling. We have also introduced unique variable “var” for all the different possibilities of writing programs.</p></li>
+</ol>
 
 
 
