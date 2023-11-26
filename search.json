@@ -7,27 +7,6 @@
     "text": "Datasets\nSlides"
   },
   {
-    "objectID": "papers/index.html",
-    "href": "papers/index.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Vibhuti Bansal, Rohit Khoiwal, Hetvi Shastri, Haikoo Khandor, Nipun Batra. In ACM Buildsys 2022 [PDF][Github]"
-  },
-  {
-    "objectID": "papers/index.html#section",
-    "href": "papers/index.html#section",
-    "title": "Publications",
-    "section": "",
-    "text": "Vibhuti Bansal, Rohit Khoiwal, Hetvi Shastri, Haikoo Khandor, Nipun Batra. In ACM Buildsys 2022 [PDF][Github]"
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
-  },
-  {
     "objectID": "work.html",
     "href": "work.html",
     "title": "Research and Work Experience",
@@ -49,11 +28,32 @@
     "text": "Probabilistic Machine Learning (ES661), IIT Gandhinagar, Fall 2023\nTeaching Assistant\n\nPrepared presentations and interactive notebooks to facilitate a comprehensive comprehension of probabilistic machine learning principles.\n\nDrafted rigorous assignments and provided project mentorship to students pursuing a project on Active Learning and basic principles.\n\nProbability, Statistics, and Data Visualization (ES114), IIT Gandhinagar, Spring 2023\nTeaching Assistant\n\nComposed assignments related to basics of probability and library usage like Numpy, Scipy, Matplotlib.\nAssisted and motivated first-year students by addressing doubts related to probability and statistics.\n\nTeaching Certification Course\n\nUndertook a course aimed at improving the teaching skills of undergraduate students.\nLearnt various insights from different faculties on how to teach, present, motivate and ensure everyone’s interest in teaching."
   },
   {
+    "objectID": "papers/index.html",
+    "href": "papers/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Vibhuti Bansal, Rohit Khoiwal, Hetvi Shastri, Haikoo Khandor, Nipun Batra. In ACM Buildsys 2022 [PDF][Github]"
+  },
+  {
+    "objectID": "papers/index.html#section",
+    "href": "papers/index.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Vibhuti Bansal, Rohit Khoiwal, Hetvi Shastri, Haikoo Khandor, Nipun Batra. In ACM Buildsys 2022 [PDF][Github]"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Haikoo Khandor",
     "section": "",
     "text": "Applying for MS in Computer Science (Fall ’24) Haikoo Khandor is a fourth year undergrad in Computer Science at IIT Gandhinagar. His active research interests include Bayesian Machine Learning and Deep Learning. He has internship experiences in various companies like HDFC Bank, TCS Research, Mastek and Pravaig Dynamics."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
   },
   {
     "objectID": "projects.html",
