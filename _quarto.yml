@@ -10,8 +10,8 @@ website:
         text: Home
       - href: papers
         text: Publications
-      - href: news.qmd
-        text: News
+      # - href: news.qmd
+      #   text: News
       - href: teaching.qmd
         text: Teaching
       - href: blog
