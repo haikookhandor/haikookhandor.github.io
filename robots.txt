@@ -1,1 +1,1 @@
-Sitemap: https://haikookhandor.github.io/sitemap.xml
+Sitemap: https://github.com/haikookhandor/haikookhandor.github.io/sitemap.xml
