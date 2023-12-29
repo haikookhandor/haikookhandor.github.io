@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Course Materials",
-    "section": "",
-    "text": "Datasets\nSlides"
-  },
-  {
     "objectID": "work.html",
     "href": "work.html",
     "title": "Research and Work Experience",
@@ -14,18 +7,11 @@
     "text": "Research Intern, TCS Research [Mentor: Supriya Agrawal]\n\nGenerated automated test cases using decision trees and random forests for bug-testing and detection in real software systems. I used different encoding mechanisms for categorical variables and applied boundary coverage and crossover techniques to increase testcases coverage.\nEmployed classical tree-search algorithms on popular libraries like Sklearn, CatBoost, H2o, XGBoost and LightGBM. This helped build fuzzy logic involving time and sequence of operations. For example: The wiper of a car has several tasks which executed in a proper sequence give signal for the wipers to turn on.\n\nResearch Intern, IIT Gandhinagar [Mentor: Prof. Nipun Batra]\n\nContributed to “pyprobml” owned by Prof.Kevin Murphy, Google Research for figures in his book, “Machine Learning: A Probabilistic Perspective.”\nModified the SOTA Seq2Point to predict mean and sigma appliance power consumption on the publicly available energy dataset REDD dataset. Quantified uncertainty through approximate Bayesian methods like Deep Ensemble, Bootstrap and MC Dropout in NILM-Uncertainty.\n\nFunctional Analyst Intern, HDFC Bank [Mentor: Pravesh Suvarna]\n\nResearched startups offering products and services leveraging machine learning or blockchain to assist in scaling services during peak traffic moments. For example: Analysis of 30-40 concurrent million users on Disney-Hotstar during ODI World Cup is performed to identify future failure points in advance.\nPerformed unit tests for netbanking interface. Prepared business requirement documents comprising of technical stack with business logic. For example: A transaction email classifier to automate email classification which is done manually at the moment. Used bag of words, mneumonic master to classify transactions to appropriate tiers.\n\nDeep Learning Intern, Mastek [Mentor: Anjali Sohoni Bhide]\n\nExplored Intel OpenVINO, an open source deep learning inference engine for real time use in use cases like Amazon Go. Ran deep learning models for downstream classification tasks like object detection, instance segmentation and many more and collected insights, deductions and time analysis pertaining to different layers of a neural network.\nStudied applications of OpenVINO in real world usecases like injury prevention, survelliance in high profile sports games like FIFA World cup 2018, medical surgery and much more.\n\nApp Developer Intern, Pravaig Dynamics [Mentor: Siddhartha Bagri]\n\nImplemented a robo-taxi app with user and driver side pages with login, sign-up, ride scheduling and communication features. Used open source libraries like React-Native and Supabase for all components from backend to the frontend. Proceeded by an iterative process of database schema design, feedback, ideation, development and improvement."
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
     "section": "",
-    "text": "May 2023: Secured a 2 month internship with the world’s fourth largest bank, HDFC Bank!\nOctober 2022: Awarded Research Intern with TCS Research for 6 months!\nSept 2022: Our buildsys22 paper on Quantifying Uncertainty in NN for Non-Intrusive Load Monitoring gets accepted to Buildsys 2022\nMay 2022: Started Research Intern with Prof. Nipun Batra in Sustainibility Lab, IIT Gandhinagar.\nMay 2022: Awarded Deep Learning intern with Mastek for 2 months!\nJanuary 2022: Selected as a part of 6 month app development intern for Pravaig Dynamics!"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching Experience",
-    "section": "",
-    "text": "Probabilistic Machine Learning (ES661), IIT Gandhinagar, Fall 2023\nTeaching Assistant\n\nPrepared presentations and interactive notebooks to facilitate a comprehensive comprehension of probabilistic machine learning principles.\n\nDrafted rigorous assignments and provided project mentorship to students pursuing a project on Active Learning and basic principles.\n\nProbability, Statistics, and Data Visualization (ES114), IIT Gandhinagar, Spring 2023\nTeaching Assistant\n\nComposed assignments related to basics of probability and library usage like Numpy, Scipy, Matplotlib.\nAssisted and motivated first-year students by addressing doubts related to probability and statistics.\n\nTeaching Certification Course\n\nUndertook a course aimed at improving the teaching skills of undergraduate students.\nLearnt various insights from different faculties on how to teach, present, motivate and ensure everyone’s interest in teaching."
+    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
   },
   {
     "objectID": "papers/index.html",
@@ -42,6 +28,13 @@
     "text": "Vibhuti Bansal, Rohit Khoiwal, Hetvi Shastri, Haikoo Khandor, Nipun Batra. In ACM Buildsys 2022 [PDF][Github]"
   },
   {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Course Materials",
+    "section": "",
+    "text": "Datasets\nSlides"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Haikoo Khandor",
@@ -49,11 +42,11 @@
     "text": "Applying for MS in Computer Science (Fall ’24) Haikoo Khandor is a fourth year undergrad in Computer Science at IIT Gandhinagar. His active research interests include Bayesian Machine Learning and Deep Learning. He has internship experiences in various companies like HDFC Bank, TCS Research, Mastek and Pravaig Dynamics."
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
     "section": "",
-    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
+    "text": "May 2023: Secured a 2 month internship with the world’s fourth largest bank, HDFC Bank!\nOctober 2022: Awarded Research Intern with TCS Research for 6 months!\nSept 2022: Our buildsys22 paper on Quantifying Uncertainty in NN for Non-Intrusive Load Monitoring gets accepted to Buildsys 2022\nMay 2022: Started Research Intern with Prof. Nipun Batra in Sustainibility Lab, IIT Gandhinagar.\nMay 2022: Awarded Deep Learning intern with Mastek for 2 months!\nJanuary 2022: Selected as a part of 6 month app development intern for Pravaig Dynamics!"
   },
   {
     "objectID": "projects.html",
@@ -61,5 +54,12 @@
     "title": "Selected Projects",
     "section": "",
     "text": "[Conformal NILM] Building upon the previously accepted [paper] at Buildsys22, we have used distribution-free likelihood by using Conformal Prediction. Calibration methods like Isotonic regression and Conformal prediction are used on top of SOTA S2P Homoscedastic/Heteroscedastic models and Quantile S2P model. Applied smoothing to mitigate same score function outputs in case of sparsely used appliances. Submitted in Special Track on Web4Good of The Web Conference 2024. (Previosly known as WWW Conference)\n[Active NILM] There is a lack of labeled data especially in the energy domain since collecting them require appliance specific sensors to be installed increasing costs and privacy issues. We used active learning on Pecan Street Dataport dataset, 25 houses in Austin, Texas. Comparable, if not better performance was achieved using only 65% of data. Different acquisition functions like entropy, mutual information, rank based sampling and round robin was used to help in uncertainty quantification.\n[Uncertain NILM] Neural network models traditionally give a point prediction which gives no useful information. Rather if a certain range of interval is provided, it helps the user make informed decisions. In the energy domain, such information can help reduce energy consumption upto 15%. We were the first one to quantify uncertainty in energy disaggregation. Approximate Bayesian methods like MC Dropout, Deep Ensemble and Bootstrap were used. Moreover, Isotonic regression helped recalibrate the uncertainties. This work is published in ACM Buildsys’2022, a CORE A ranked CS Conference.\n[Learning from Synthetic Data] Image datasets like CIFAR-10, Imagenet-100 have been manually annotated leading to labeling errors and privacy issues. Obtaining these are often difficult and expensive. We use Generative Adversial Networks (GANs) on top of self-supervised learning techniques for synthetic data generation. By combining them with real images, we train networks for downstream classification tasks achieving a better accuracy. Thereafter, we used Stable diffusion with prompt engineering of domains to get even further realistic images and maintaining a fine tradeoff between fidelity and diversity.\n[Developing test generation techniques from decision trees learnt for insurance migration systems to reduce training data] Insurance systems make new schemes which are either applicable or not applicable to individuals. There are a number of variables which are present in this scheme determining eligibility. Among these variables there exist constraints which are non-intuitive many times. A decision tree is learnt and finetuned repeatedly by adding testcases generated by parsing the tree. The testcases are generated keeping in mind the constraints a variable might have with other. This resulted in a 7% jump in accuracy in software testing systems.\n[Compilers] A Compiler built from scratch with Python. It involves the following stages for compiling namely, lexical analysis, parsing, semantic analysis, optimization, and a user-friendly interface. There are advanced features like error handling. We have also introduced unique variable “var” for all the different possibilities of writing programs."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Probabilistic Machine Learning (ES661), IIT Gandhinagar, Fall 2023\nTeaching Assistant\n\nPrepared presentations and interactive notebooks to facilitate a comprehensive comprehension of probabilistic machine learning principles.\n\nDrafted rigorous assignments and provided project mentorship to students pursuing a project on Active Learning and basic principles.\n\nProbability, Statistics, and Data Visualization (ES114), IIT Gandhinagar, Spring 2023\nTeaching Assistant\n\nComposed assignments related to basics of probability and library usage like Numpy, Scipy, Matplotlib.\nAssisted and motivated first-year students by addressing doubts related to probability and statistics.\n\nTeaching Certification Course\n\nUndertook a course aimed at improving the teaching skills of undergraduate students.\nLearnt various insights from different faculties on how to teach, present, motivate and ensure everyone’s interest in teaching."
   }
 ]
